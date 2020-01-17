@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Svg2VectorAndroid
+Implementation-Version: 1.1.1
+Main-Class: com.vector.svg2vectorandroid.Runner
+
